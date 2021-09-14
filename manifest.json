@@ -1,0 +1,64 @@
+{
+  "name": "Portafolio Elide",
+  "short_name": "Portafolio",
+  "description": "Portafolio Digital de Claudia Elide Zamora Medina",
+  "background_color": "#FD8D56",
+  "theme_color": "#F4EDE9",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./img/buho_1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/buho_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/buho_384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/buho_256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/buho_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/buho_128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/buho_96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/buho_64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/buho_32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/buho_16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
